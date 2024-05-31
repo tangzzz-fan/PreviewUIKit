@@ -28,7 +28,6 @@
 		18B457172C0A224800D7AD85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18B4571D2C0A226B00D7AD85 /* PreviewUIKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreviewUIKit.swift; sourceTree = "<group>"; };
 		18B4571E2C0A226B00D7AD85 /* TestFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
-		18B457212C0A235400D7AD85 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,7 +44,6 @@
 		18B456FD2C0A224700D7AD85 = {
 			isa = PBXGroup;
 			children = (
-				18B457212C0A235400D7AD85 /* README.md */,
 				18B457082C0A224700D7AD85 /* PreviewDemo */,
 				18B457072C0A224700D7AD85 /* Products */,
 			);
